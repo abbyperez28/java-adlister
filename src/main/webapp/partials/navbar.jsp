@@ -19,9 +19,10 @@
     <title>Title</title>
 </head>
 <body>
+<h1>Welcome to Adlister</h1>
     <nav>
         <div class="nav-wrapper">
-            <a href="/login.jsp" class="brand-logo">Login</a>
+            <a href="/login.jsp" class="brand-logo">Welcome to Adlister</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a href="sass.html">Sass</a></li>
                 <li><a href="badges.html">Components</a></li>

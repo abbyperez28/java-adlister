@@ -6,7 +6,9 @@
     </head>
     <body>
         <%@ include file="partials/navbar.jsp" %>
+
         <%--<%@ include file="partials/login.jsp" %>--%>
         <%--<%@ include file="partials/footer.jsp"%>--%>
+        <%----------^^ NOT NEEDED IN MAIN, YET^^---------%>
     </body>
 </html>
